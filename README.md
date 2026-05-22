@@ -1,96 +1,116 @@
 <div align="center">
 
-# Hi, I'm Satish Kumar Thirukoti 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Satish%20Kumar%20Thirukoti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20SAP%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
-### Computer Science Engineer | Full-Stack Developer | SAP Enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satish+Kumar+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;SAP+%26+Enterprise+Tech+Enthusiast+%F0%9F%92%BC;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirukoti-satish-kumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satishtirukoti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satishtirukoti.github.io/portfolio/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirukoti-satish-kumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satishtirukoti.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satishtirukoti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishkumartirukoti1@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Satishtirukoti&label=Profile+Views&color=6366f1&style=flat" alt="profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 B.Tech in **Computer Science Engineering** at Vignan Institute of Technology and Science, Hyderabad (2023–2027)
-- 💡 Passionate about **Full-Stack Development**, **Enterprise Applications**, and **SAP Technologies**
-- 🏆 Academic score: **88.54%** | 12th: **97.6%** | 10th: **95%**
-- 🌐 Completed **Web Development Internship** at VaultofCodes.in (Oct–Nov 2025)
-- 🚀 Always learning, always building
+### 👨‍💻 About Me
+
+```yaml
+Name     : Satish Kumar Thirukoti
+College  : Vignan Institute of Technology & Science
+Degree   : B.Tech CSE (2023 - 2027)
+Location : Hyderabad, Telangana 🇮🇳
+
+Scores:
+  UG     : 88.54%
+  12th   : 97.6%
+  10th   : 95%
+
+Interests:
+  - Full-Stack Development
+  - Enterprise & SAP Technologies
+  - Machine Learning
+  - Problem Solving
+
+Status   : Open to Opportunities 🚀
+```
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-### Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+**Languages**
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Backend & Database**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔍 [Criminal Tracking & Alert System](https://github.com/Satishtirukoti) | Facial recognition system with real-time alert generation | Python, OpenCV, Java |
-| 🛡️ [Insurance Fraud Detection](https://github.com/Satishtirukoti) | ML-based system to detect fraudulent insurance claims | Python, ML, HTML, CSS, JS |
-| 🏥 [National Healthcare Dashboard](https://github.com/Satishtirukoti/health-dashboard) | Data visualization dashboard for healthcare metrics | HTML5, CSS, JS, Node.js |
-| 🏏 [Hand Cricket Game](https://github.com/Satishtirukoti/hand-cricket-game) | Full-stack web game with real-time score updates | HTML5, JS, Node.js, MySQL |
-| 💰 [FinTrack-Java](https://github.com/Satishtirukoti/FinTrack-Java) | Financial tracking application | Java |
-| 🎯 [FocusFlow](https://github.com/Satishtirukoti/FocusFlow) | Productivity and focus management app | JavaScript |
+<div align="center">
 
----
+<a href="https://github.com/Satishtirukoti">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satishtirukoti&repo=FinTrack-Java&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Satishtirukoti/health-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satishtirukoti&repo=health-dashboard&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Satishtirukoti/hand-cricket-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satishtirukoti&repo=hand-cricket-game&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Satishtirukoti/FocusFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satishtirukoti&repo=FocusFlow&theme=tokyonight&hide_border=true" />
+</a>
 
-## 🏅 Certifications
+</div>
 
-- 📜 **Programming in Java** — NPTEL
-- 📜 **Data Structures through Java** — NPTEL
-- 📜 **Python Programming** — Udemy
+### 🔥 All Projects at a Glance
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Top 25** — College Hackathon (Project Development & Innovation)
-- 🏆 **Best Organiser** — CSI Technical Events
-- 🥇 **1st Prize** — Pictionary Competition
-- 🥇 **School First** — Abacus Competition
-- 🏅 Multiple medals in **Kho-Kho** at school level
-
----
-
-## 💼 Experience
-
-**Web Development Intern** — VaultofCodes.in *(Oct 2025 – Nov 2025)*
-- Built responsive web applications using HTML5, CSS, JavaScript, and Node.js
-- Worked on REST API integration, debugging, and deployment
-
----
-
-## 🎯 Areas of Interest
-
-```
-Full-Stack Development  |  Enterprise Applications  |  SAP Technologies
-Machine Learning        |  API Integration           |  Problem Solving
-```
+| 🏷️ Project | 📝 Description | 🛠️ Stack | 🔗 |
+|------------|---------------|----------|-----|
+| 🔍 Criminal Tracking & Alert System | Facial recognition with real-time alert generation | Python, OpenCV, Java | [View](https://github.com/Satishtirukoti) |
+| 🛡️ Insurance Fraud Detection | ML-based fraudulent claims detector | Python, ML, JS | [View](https://github.com/Satishtirukoti) |
+| 🏥 Healthcare Dashboard | National healthcare metrics visualization | HTML5, Node.js, JS | [View](https://github.com/Satishtirukoti/health-dashboard) |
+| 🏏 Hand Cricket Game | Full-stack web game with DB integration | JS, Node.js, MySQL | [View](https://github.com/Satishtirukoti/hand-cricket-game) |
+| 💰 FinTrack-Java | Financial tracking application | Java | [View](https://github.com/Satishtirukoti/FinTrack-Java) |
+| 🎯 FocusFlow | Productivity & focus management | JavaScript | [View](https://github.com/Satishtirukoti/FocusFlow) |
 
 ---
 
@@ -98,25 +118,92 @@ Machine Learning        |  API Integration           |  Problem Solving
 
 <div align="center">
 
-![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satishtirukoti&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satishtirukoti&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Satishtirukoti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishtirukoti&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satishtirukoti&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thirukoti_Satish_Kumar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thirukoti-satish-kumar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome)](https://satishtirukoti.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-satishkumartirukoti1@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:satishkumartirukoti1@gmail.com)
+![trophy](https://github-profile-trophy.vercel.app/?username=Satishtirukoti&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
 ---
 
+## 🐍 Contribution Graph
+
 <div align="center">
-<i>"Building solutions that matter, one line of code at a time."</i>
+
+<img src="https://raw.githubusercontent.com/Satishtirukoti/Satishtirukoti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 Achievement | 📍 Level |
+|----------------|----------|
+| 🥇 Top 25 — College Hackathon | College |
+| 🏆 Best Organiser — CSI Events | College |
+| 🥇 1st Prize — Pictionary | College |
+| 🥇 School First — Abacus | School |
+| 🏅 Multiple medals — Kho-Kho | School |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Java NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Java-blue?style=for-the-badge&logo=java)
+![DSA NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20via%20Java-orange?style=for-the-badge&logo=java)
+![Python Udemy](https://img.shields.io/badge/Udemy-Python%20Programming-purple?style=for-the-badge&logo=udemy)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  🌐 Web Development Intern @ VaultofCodes.in             ║
+║  📅 October 2025 – November 2025                         ║
+║  🛠️  HTML5 | CSS | JavaScript | Node.js | REST APIs      ║
+║  ✅ Built responsive apps | API integration | Deployment  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🤝 Hackathons
+
+> 🔬 **Vignan Hackathon** — Criminal Tracking System using Python & OpenCV *(Top 25)*
+>
+> 🛡️ **KLH Rampage Hackathon** — Insurance Fraud Detection using ML & Python
+
+---
+
+<div align="center">
+
+### 💬 Quote I Live By
+
+*"Building solutions that matter, one line of code at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
